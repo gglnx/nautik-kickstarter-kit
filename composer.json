@@ -1,7 +1,6 @@
 {
     "require": {
         "php": ">=5.3.0",
-		"gglnx/nautik": "1.0.*",
-        "twig/twig": "1.9.*"
+		"gglnx/nautik": "dev-master"
     }
 }
