@@ -55,6 +55,13 @@ class Application extends \Nautik\Core\Application {
 	 * @see http://www.php.net/timezones
 	 */
 	public static $defaultTimezone = "GMT";
+	
+	/**
+	 * Locale of the application
+	 * See the php.net docs for configuration options
+	 * @see http://www.php.net/setlocale
+	 */
+	public static $locale = "";
 
 	/**
 	 * The location of your application
