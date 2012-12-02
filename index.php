@@ -27,12 +27,7 @@
  * FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
  * OTHER DEALINGS IN THE SOFTWARE.
  */
-
-/**
- * UTF-8 rocks!
- */
-declare(encoding='UTF-8');
-
+ 
 /**
  * Path to app
  */

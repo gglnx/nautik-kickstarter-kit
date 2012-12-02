@@ -29,11 +29,6 @@
  */
 
 /**
- * Declare UTF-8 and the namespace
- */
-declare(encoding='UTF-8');
-
-/**
  * Action happens a level higher
  */
 include '../index.php';
