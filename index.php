@@ -1,10 +1,10 @@
 <?php
 /**
- * @package		Nautik Kickstarter
- * @version		1.0-$Id$
- * @link		http://github.com/gglnx/nautik-kickstarter
- * @author		Dennis Morhardt <info@dennismorhardt.de>
- * @copyright	Copyright 2012, Dennis Morhardt
+ * @package     Nautik Kickstarter
+ * @version     1.0-$Id$
+ * @link        http://github.com/gglnx/nautik-kickstarter
+ * @author      Dennis Morhardt <info@dennismorhardt.de>
+ * @copyright   Copyright 2012, Dennis Morhardt
  *
  * Permission is hereby granted, free of charge, to any person
  * obtaining a copy of this software and associated documentation
