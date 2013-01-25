@@ -1,6 +1,6 @@
 {
     "require": {
         "php": ">=5.3.0",
-		"gglnx/nautik": "dev-master"
+        "gglnx/nautik": "2.0.*@dev"
     }
 }

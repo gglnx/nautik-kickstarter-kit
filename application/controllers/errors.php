@@ -6,6 +6,17 @@
  * @author      YOUR NAME <YOUR MAIL>
  * @copyright   Copyright YEAR, YOUR NAME
  */
+ 
+/**
+ * Namespace
+ */
+namespace App;
 
-// Action happens a level higher
-include '../index.php';
+/**
+ *
+ */
+class errorsController extends baseController {
+	public function display404() {
+		// Display homepage
+	}
+}
