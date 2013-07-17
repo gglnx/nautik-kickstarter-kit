@@ -10,7 +10,7 @@
 /**
  * Namespace
  */
-namespace App;
+namespace Application;
 
 /**
  * Application main class

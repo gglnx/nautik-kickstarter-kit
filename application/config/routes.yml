@@ -1,9 +1,9 @@
 # Homepage
 homepage:
     path: /
-    defaults: { _controller: pages }
+    defaults: { _controller: Pages }
 
 # Static pages
 static:
     path: /pages/{page}
-    defaults: { _controller: pages, _action: render }
+    defaults: { _controller: Pages, _action: render }

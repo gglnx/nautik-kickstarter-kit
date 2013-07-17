@@ -10,11 +10,11 @@
 /**
  * Namespace
  */
-namespace App;
+namespace Application\Controllers;
 
 /**
- * The BaseController is base for all controllers this app
+ * The MasterController is base for all controllers this app
  */
-class baseController extends \Nautik\Controller {
+class MasterController extends \Nautik\Controller {
 
 }

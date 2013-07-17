@@ -10,12 +10,12 @@
 /**
  * Namespace
  */
-namespace App;
+namespace Application\Controllers;
 
 /**
  *
  */
-class errorsController extends baseController {
+class Errors extends MasterController {
 	public function display404() {
 		// Display homepage
 	}
