@@ -1,4 +1,8 @@
 {
+    "name": "gglnx/nautik-kickstarter",
+    "license": "MIT",
+    "type": "project",
+    "description": "Kickstart your Nautik project!",
     "require": {
         "php": ">=5.4.0",
         "gglnx/nautik": "dev-master"
